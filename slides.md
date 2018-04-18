@@ -178,10 +178,32 @@ Definitive answer: Either option is fine
 
 --
 
-a grab back of your tips and ticks
+## Discard local changes
+
+Reset local change (Discard)
+* ```Git clean –f```
+* ```Git reset --hard HEAD```
+
+--
+
+## Committed to the wrong branch
+
+```git branch feature, git reset --hard origin/master, git checkout feature``
+
+--
+
+## git-LFS
+
+![git-LFS](gitlfs.gif)
+
+--
+
+## Find the Bug
+
+```git bisect start, git bisect bad, git bisect good <commit SHA>```
 
 ---
 
 # Q&A
 
-### both
+( Jeremy Foster and  Tobiah Zarlez )
