@@ -4,7 +4,7 @@
 
 ---
 
-# Overview and Setup
+# Overview
 ### Jeremy Foster
 ### Tobiah Zarlez
 
@@ -12,74 +12,94 @@
 
 ## What is git?
 
-* history of git
-* difference between git and GitHub
+* Git a is distributed revision control system.
+* Industry standard for version control and source code management systems.
+* Completely free and open source
+    * Various hosting services out there (GitHub, VSTS, etc.) with both free and paid tiers
 
 --
 
-## The `git` Command
+* how git DOESN'T work
 
-`git` is the command you use to blah blah blah...
+![git is not central](gitwrong.png)
+
+--
+
+* how git ACTUALLY works
+
+![there is no source of truth](gitright.png)
+
+--
+
+## The great GUI vs. CLI debate
+
+Definitive answer: Either option is fine
+
+(Though CLI is much better)
+
+--
+
+## Setup
+
+* Git - https://git-scm.com/download/
+* Git-LFS - https://git-lfs.github.com/ 
+* VSCode - https://code.visualstudio.com/ 
 
 --
 
 ## config
 
-{ just enough here to get them started... basically global config of username and email }
+* ```git config --global user.name “Tobiah Zarlez“```
+* ```git config --global user.email “TobiahZ@users.noreply.github.com” ```
 
 --
 
-## init
+## init and clone
 
---
-
-## clone
-
-{ copies }
-
-{ by default gets all history... can specify depth }
-
-{ also creates an `origin` remote for you }
+[Demo time?]
 
 ---
 
-# Basic Snapshotting
+# Git Basics
 ### Tobiah Zarlez
-
 
 --
 
-## add
+* git saves a series of changes
+
+![checkins over time](gitversions.png)
 
 --
 
 ## status
 
---
+* What's going on?
 
-## diff
-
---
-
-## commit
+[Demo time?]
 
 --
 
-## reset
+## staging, add, and commit
+
+[Demo time?]
 
 --
 
-## rm
+## git ignore
 
 --
-
-## revert
-
----
 
 # Branching and Merging
 
 ### Jeremy Foster
+
+--
+
+![git flow](gitbranch.png)
+
+--
+
+## log
 
 --
 
@@ -96,22 +116,6 @@
 --
 
 ## rebase
-
---
-
-## log
-
---
-
-## stash
-
-{ we could leave this out of an "essentials" course} 
-
---
-
-## tag
-
-{ we could leave this out of an "essentials" course} 
 
 ---
 
