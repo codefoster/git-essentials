@@ -5,8 +5,8 @@
 ---
 
 # Overview
-### Jeremy Foster
-### Tobiah Zarlez
+
+( Jeremy Foster and  Tobiah Zarlez )
 
 --
 
@@ -61,7 +61,9 @@ Definitive answer: Either option is fine
 ---
 
 # Git Basics
-### Tobiah Zarlez
+### Commit your work
+
+( Tobiah Zarlez )
 
 --
 
@@ -87,11 +89,11 @@ Definitive answer: Either option is fine
 
 ## git ignore
 
---
+---
 
-# Branching and Merging
+# Branch, Merge, and Rebase
 
-### Jeremy Foster
+( Jeremy Foster )
 
 --
 
@@ -121,45 +123,27 @@ Definitive answer: Either option is fine
 
 # Sharing and Updating Projects
 
-### Tobiah Zarlez
+( Tobiah Zarlez )
 
 --
 
-## fetch
+## origin and remotes
 
 --
 
-## pull
+## push, pull and fetch
 
 --
 
-## push
-
---
-
-## remote
-
----
-
-# Inspection and Comparison
-
-### Jeremy Foster
-
---
-
-## log
-
---
-
-## diff
+## pull requests 101
 
 ---
 
 # Tips and Tricks by Jeremy
+### a grab back of my tips and ticks
 
-### Jeremy Foster
+( Jeremy Foster )
 
-a grab back of my tips and ticks
 
 --
 
@@ -189,7 +173,7 @@ a grab back of my tips and ticks
 
 # Tips and Tricks by Tobiah
 
-### Tobiah Zarlez
+( Tobiah Zarlez )
 
 
 --
