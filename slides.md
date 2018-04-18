@@ -4,12 +4,20 @@
 
 ---
 
-# Setup
+# Overview and Setup
 ### Jeremy Foster
+### Tobiah Zarlez
 
 --
 
-## git
+## What is git?
+
+* history of git
+* difference between git and GitHub
+
+--
+
+## The `git` Command
 
 `git` is the command you use to blah blah blah...
 
@@ -17,11 +25,7 @@
 
 ## config
 
-blah blah blah
-
---
-
-## help
+{ just enough here to get them started... basically global config of username and email }
 
 --
 
@@ -67,6 +71,10 @@ blah blah blah
 
 ## rm
 
+--
+
+## revert
+
 ---
 
 # Branching and Merging
@@ -87,15 +95,23 @@ blah blah blah
 
 --
 
+## rebase
+
+--
+
 ## log
 
 --
 
 ## stash
 
+{ we could leave this out of an "essentials" course} 
+
 --
 
 ## tag
+
+{ we could leave this out of an "essentials" course} 
 
 ---
 
@@ -127,29 +143,11 @@ blah blah blah
 
 --
 
-## show
-
---
-
 ## log
 
 --
 
 ## diff
-
----
-
-# Patching
-
-### Tobiah Zarlez
-
---
-
-## rebase
-
---
-
-## revert
 
 ---
 
