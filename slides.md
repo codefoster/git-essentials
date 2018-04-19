@@ -63,7 +63,7 @@ Definitive answer: Either option is fine
 # Git Basics
 ### Commit your work
 
-( Tobiah Zarlez )
+### Tobiah Zarlez
 
 --
 
@@ -93,7 +93,7 @@ Definitive answer: Either option is fine
 
 # Branch, Merge, and Rebase
 
-( Jeremy Foster )
+### Jeremy Foster
 
 --
 
@@ -123,7 +123,7 @@ Definitive answer: Either option is fine
 
 # Sharing and Updating Projects
 
-( Tobiah Zarlez )
+### Tobiah Zarlez
 
 --
 
@@ -139,10 +139,10 @@ Definitive answer: Either option is fine
 
 ---
 
-# Tips and Tricks by Jeremy
-### a grab back of my tips and ticks
+# Tips and Tricks
 
-( Jeremy Foster )
+### Jeremy Foster
+### Tobiah Zarlez
 
 
 --
@@ -169,26 +169,25 @@ Definitive answer: Either option is fine
 
 ## patch add (and in VS Code)
 
----
-
-# Tips and Tricks by Tobiah
-
-( Tobiah Zarlez )
-
-
 --
 
 ## Discard local changes
 
 Reset local change (Discard)
-* ```Git clean –f```
-* ```Git reset --hard HEAD```
+```
+git clean –f
+git reset --hard HEAD
+```
 
 --
 
 ## Committed to the wrong branch
 
-```git branch feature, git reset --hard origin/master, git checkout feature``
+```
+git branch feature
+git reset --hard origin/master
+git checkout feature
+```
 
 --
 
@@ -200,10 +199,12 @@ Reset local change (Discard)
 
 ## Find the Bug
 
-```git bisect start, git bisect bad, git bisect good <commit SHA>```
+```
+git bisect start, git bisect bad, git bisect good <commit SHA>
+```
 
 ---
 
 # Q&A
-
-( Jeremy Foster and  Tobiah Zarlez )
+### Jeremy Foster
+### Tobiah Zarlez
