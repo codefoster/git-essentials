@@ -6,26 +6,27 @@
 
 # Overview
 
-( Jeremy Foster and  Tobiah Zarlez )
+### Jeremy Foster
+### Tobiah Zarlez
 
 --
 
 ## What is git?
 
-* Git a is distributed revision control system.
+* Git is a distributed revision control system.
 * Industry standard for version control and source code management systems.
 * Completely free and open source
-    * Various hosting services out there (GitHub, VSTS, etc.) with both free and paid tiers
+* Various hosting services out there (GitHub, VSTS, etc.) with both free and paid tiers
 
 --
 
-* how git DOESN'T work
+## How git DOESN'T work
 
 ![git is not central](gitwrong.png)
 
 --
 
-* how git ACTUALLY works
+## How git ACTUALLY works
 
 ![there is no source of truth](gitright.png)
 
@@ -56,7 +57,7 @@ Definitive answer: Either option is fine
 
 ## init and clone
 
-[Demo time?]
+[Demo time!]
 
 ---
 
@@ -67,23 +68,21 @@ Definitive answer: Either option is fine
 
 --
 
-* git saves a series of changes
+## Git saves a series of changes
 
 ![checkins over time](gitversions.png)
 
 --
 
-## status
+## Git status
 
-* What's going on?
-
-[Demo time?]
+* What's going on with your project?
 
 --
 
 ## staging, add, and commit
 
-[Demo time?]
+[Demo time!]
 
 --
 
@@ -107,6 +106,8 @@ Definitive answer: Either option is fine
 
 ## branch
 
+![branch](branch.png)
+
 --
 
 ## checkout
@@ -115,9 +116,19 @@ Definitive answer: Either option is fine
 
 ## merge
 
+![merge](merge.png)
+
 --
 
 ## rebase
+
+![rebase](rebase.png)
+
+--
+
+## interactive rebase
+
+![interactive](interactive.png)
 
 ---
 
