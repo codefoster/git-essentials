@@ -40,14 +40,6 @@ Definitive answer: Either option is fine
 
 --
 
-## Setup
-
-* Git - https://git-scm.com/download/
-* Git-LFS - https://git-lfs.github.com/ 
-* VSCode - https://code.visualstudio.com/ 
-
---
-
 ## config
 
 * ```git config --global user.name “Tobiah Zarlez“```
@@ -219,3 +211,7 @@ git bisect start, git bisect bad, git bisect good <commit SHA>
 # Q&A
 ### Jeremy Foster
 ### Tobiah Zarlez
+
+* Git - https://git-scm.com/download/
+* Git-LFS - https://git-lfs.github.com/ 
+* VSCode - https://code.visualstudio.com/ 
